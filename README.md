@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rulibar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ryan Ulibarri @rulibar
+- 👀 I’m interested in ... blockchain, cryptocurrencies, financial markets, algorithmic trading
+- 🌱 I’m currently learning ... blockchain development
+- 💞️ I’m looking to collaborate on ... blockchain projects, business opportunities
+- 📫 How to reach me ... e-mail: rulibar@protonmail.com, linkedin: ryan-ulibarri
 
 <!---
 rulibar/rulibar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
